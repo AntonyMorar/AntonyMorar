@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AntonyMorar
-- 👀 I’m interested in Game Development
+- 👀 I’m interested in Game Development and Art
 - 🌱 I’m currently learning Game Design
 - 📫 How to reach me: antony.moraar@gmail.com
 
