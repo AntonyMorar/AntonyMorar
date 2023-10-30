@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AntonyMorar
 - 👀 I’m interested in Game Development and Art
-- 🌱 I’m currently learning Game Design
+- 🌱 I’m currently VFX Artist
 - 📫 How to reach me: antony.moraar@gmail.com
 
 <!---
